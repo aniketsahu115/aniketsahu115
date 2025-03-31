@@ -4,4 +4,4 @@
 - A 21-year-old aspiring programmer dedicated to daily improvement in software development.
 
 ## Reach Out
--  Contact Information: [Email](sahuaniket115@gmail.com)
+-  Contact Information: [Email](mailto:sahuaniket115@gmail.com)
