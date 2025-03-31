@@ -1,21 +1,7 @@
-# Hi there 👋 I'm Aniket Sahu
+# Hi there 👋 I'm Aniket 
 
 ## About Me
-- 🚀 I’m currently working on my startup focused on [Will be available soon!].
-- 🌐 Full Stack Developer with expertise in Java and Web Development.
-- 🤖 Passionate about AI and keeping up-to-date with technology changes.
-- 🧩 Problem-solver at core and adept at internet research for project development.
-
-## My Skills
-- Java
-- Web Development (HTML/CSS/JavaScript/React/etc.)
-- AI Tools Understanding
-- Graphic designing
-
-## Collaborate With Me
-- 👯 Open to collaborating on Open Source projects.
-- 🤔 Seeking help with Artificial Intelligence concepts.
-- 💬 Happy to discuss development and tech trends.
+-  Hey, I am Aniket, a 21-year-old aspiring programmer dedicated to daily improvement in software development.
 
 ## Reach Out
-📫 Feel free to email me at: sahuaniket115@gmail.com
+-  Feel free to email me at: sahuaniket115@gmail.com
